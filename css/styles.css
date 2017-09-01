@@ -2,6 +2,7 @@ body{
   background-attachment: fixed;
   background: url("../images/image4.jpg") no-repeat top center;
   background-size: cover;
+  background-color: black;
   }
 
 .panel-head{
