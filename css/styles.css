@@ -1,0 +1,21 @@
+body{
+  background-attachment: fixed;
+  background: url("../images/image4.jpg") no-repeat top center;
+  background-size: cover;
+  }
+
+.panel-head{
+  color: yellow;
+}
+#header{
+  color: skyblue;
+}
+.jumbotron{
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+input{
+  color: black;
+}
